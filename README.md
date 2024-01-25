@@ -19,7 +19,6 @@ git clone https://github.com/AJustiago/Stock-Market-Analysis-And-Forecasting.git
 
 ```bash
 pip install -r requirements.txt
-Gunakan kode dengan hati-hati. Pelajari lebih lanjut
 ```
 ## Dataset
 
